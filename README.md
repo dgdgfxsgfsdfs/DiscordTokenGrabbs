@@ -3,7 +3,7 @@
 
 
 <h2 align="center">STEP 1</h2>
-<p align="center"><strong>✅ We need to creat a Webhook</strong></p>
+<p align="center"><strong>✅ We need to create a Webhook</strong></p>
 <p>[>] Go on Server settings 
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/911371413837996032/911371543676878858/unknown_2.png"></p>
 <p>[>] Then go on Integrations 

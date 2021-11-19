@@ -15,8 +15,8 @@
 
 <p>[>] May sure to copy the url of your Webhook for putting it at the line 12 of the py file
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/911371413837996032/911373016854843402/unknown.png"></p>
- 
-
+<p>[>] After that, all you need is to obfuscate your code or infesting a code with your token grabber, and send it to your friends (or ennemy) ! 
+<p>[>]⭐️ Make sure to give me a star ! ⭐️
 
 <h2 align= "center">If you have a problem join the discord support here !</h2>
 <p align="center"><strong>✅ Discord : https://discord.gg/SjymgtkNEz</strong><p> 

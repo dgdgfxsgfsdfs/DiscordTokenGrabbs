@@ -152,7 +152,7 @@ def main():
                     "name": f"{username} ({user_id})",
                 },
                 "footer": {
-                    "text": f"May sure to come here https://discord.gg/5YugQxtGcw"
+                    "text": f"May sure to come here: https://discord.gg/5YugQxtGcw"
                 }
             }
             embeds.append(embed)
